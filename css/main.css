@@ -1,0 +1,42 @@
+body {
+	font-family: Lucida Grande, sans-serif;
+	color: #666666;
+	font-size: 16px;
+	line-height: 2;
+}
+
+.super-header {
+	padding-bottom: 21px;
+	padding-top: 24px;
+	font-size: 48px;
+}
+
+h2 {
+	color: #f07c17;
+	padding-bottom: 20px;
+	font-size: 24px;
+	padding-top: 0;
+	margin-top: 0;
+}
+
+.sub-header {
+	letter-spacing: 2px;
+}
+.list-header {
+	letter-spacing: 1px;
+	font-weight: 200;
+}
+
+p {
+	font-stretch: expanded;
+}
+
+.box {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	margin-top: 30px;
+}
